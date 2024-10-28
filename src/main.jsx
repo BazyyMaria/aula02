@@ -1,7 +1,7 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import Page1 from './exemplo1'
-//import Page2 from './exemplo2'
+import Page2 from './exemplo2'
 //import Page3 from './exemplo3'
 
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
